@@ -1,1 +1,1 @@
-# SkyMTProto
+# MTProtoCollectorV2
